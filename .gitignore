@@ -1,8 +1,10 @@
+figwheel_server.log
 .idea
 *.iml
 pom.xml
 pom.xml.asc
 *jar
+/resources/public/js/*
 /lib/
 /classes/
 /target/
