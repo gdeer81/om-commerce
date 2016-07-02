@@ -1,0 +1,16 @@
+This is where I will keep my notes for this project
+
+Day 1:
+no lein templates to speak of for a new om application so I just followed the quickstart tutorial to get set up
+
+The first thing that strikes me is about building a Single Page Application is that after you've written your first index.html file, you're done creating html files
+you only get one as the name implies
+
+So before I write my first component I need to know how I'm going to set up navigation.
+To start off with I'll try a simple home and about section
+
+I'll use compassus (https://github.com/anmonteiro/compassus) for my routing
+
+For now I've decided to copy-pasta sample code from the compassus docs.
+
+Next I'll try to modify that code to create a secure route and a login page.
